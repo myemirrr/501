@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fHArRiVRuRT1a9+HFaJmgD2lvKAm4b2MAi5TetBrdAAx6cAT3Kih4aJBOh0feQwAlq+MtYOc8/wkhcFaz/3Vkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\myemi\\Masaüstü\\Publisher\\Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\myemi\\.nuget\\packages\\rabbitmq.client\\6.7.0\\rabbitmq.client.6.7.0.nupkg.sha512",
+    "C:\\Users\\myemi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\myemi\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
